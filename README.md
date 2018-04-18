@@ -1,6 +1,6 @@
-# randorestau
+# RandoRestau
 
-> a random restaurant generator app built in Vuejs
+> a random restaurant generator app built in Vuejs using Zomato's Restaurant API
 
 ## Build Setup
 
